@@ -1,4 +1,19 @@
-- [es         ,en         ,tok          ,note]
-- [yo         ,i          ,""            ,"pertaining to self"]
-- [mi         ,me         ,mi           ,"belonging to self"]
-- [tu         ,you        ,sina         ,"all versions of you your etc"]
+- 
+  es:  yo
+  en:  i
+  src: "pertaining to self"
+- 
+  es:  mi
+  en:  me
+  tok: mi
+  src: "belonging to self"
+- 
+  es:  tu
+  en:  you
+  tok: sina
+  src: "pertaining to you"
+- 
+  es:  "no"
+  en:  "no"
+  tok: ala
+  src: "no, negative, not"
