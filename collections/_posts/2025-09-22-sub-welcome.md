@@ -1,10 +1,10 @@
 ---
-title: Sub welcome test
+title: Read More
 # date: YYYY-MM-DD HH:MM:SS
-categories: [Welcome, Sub Welcome]
-tags: [tag1, tag2, tag3]     # TAG names should always be lowercase
-description: A test sub welcome post.
+categories: [About]
+tags: [Welcome, tag2, tag3]     # TAG names should always be lowercase
+description: More about the  above
 toc: true
 comments: true
 ---
-Hello world from the sub welcome post
+Ok, so you've decided to read further.

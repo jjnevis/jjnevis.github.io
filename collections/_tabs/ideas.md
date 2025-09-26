@@ -3,6 +3,10 @@ icon: fas fa-plus-circle
 order: 5
 ---
 
+Think of an idea as a well defined problem that needs a solution.
+
+At this stage, there's not a lot going on here.
+
 idea 1
 
 idea 2
