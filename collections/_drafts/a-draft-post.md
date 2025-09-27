@@ -9,7 +9,6 @@ tags: [tag2]     # TAG names should always be lowercase
 ---
 this is a draft post
 
-<p>{{ site.data.nn | logger }}</p>
 <ul>
 {% for nn in site.data.nn %}
   <li>
