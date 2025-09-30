@@ -1,5 +1,5 @@
 ---
-categories: [Welcome, Sub Welcome]
+categories: [Blog, Technical]
 tags: [tag2]     # TAG names should always be lowercase
 description: A test sub welcome post.
 comments: true

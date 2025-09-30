@@ -1,5 +1,5 @@
 ---
-categories: [About]
+categories: [Blog, General]
 tags: [welcome, tag2, tag3]
 description: More about the  above
 toc: true
