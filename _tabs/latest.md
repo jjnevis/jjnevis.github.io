@@ -1,5 +1,5 @@
 ---
 layout: archives
-icon: fas fa-pen-nib
+icon: fas fa-clock
 order: 2
 ---

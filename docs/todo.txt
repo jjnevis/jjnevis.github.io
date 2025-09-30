@@ -1,7 +1,11 @@
 todo
-- create "solutions"
-- localisation
+	understand jekyll collections as alternative to posts for solution pages
+	change todo list from text file to markdown file on site
+	get cdn on netlify working
+	learn liquidjs
+	localisation
 
 done
-- create a todo
+	create a todo
+	create "solutions"
 

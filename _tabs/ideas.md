@@ -1,5 +1,5 @@
 ---
-icon: fas fa-plus-circle
+icon: fas fa-lightbulb
 order: 3
 ---
 
