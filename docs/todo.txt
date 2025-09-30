@@ -1,8 +1,7 @@
 todo
-
-- create a todo
 - create "solutions"
 - localisation
 
 done
+- create a todo
 

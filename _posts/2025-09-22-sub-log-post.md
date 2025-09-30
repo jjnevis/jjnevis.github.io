@@ -1,8 +1,6 @@
 ---
-title: Read More
-# date: YYYY-MM-DD HH:MM:SS
 categories: [About]
-tags: [Welcome, tag2, tag3]     # TAG names should always be lowercase
+tags: [welcome, tag2, tag3]
 description: More about the  above
 toc: true
 comments: true
