@@ -1,6 +1,6 @@
 ---
 icon: fas fa-pencil
-order: 1.5
+order: 1
 ---
 ## <a href="{{ '/categories/general' | relative_url }}">General</a>
 
