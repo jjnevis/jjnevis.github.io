@@ -4,7 +4,7 @@ order: 1
 ---
 ## <a href="{{ '/categories/solutioneering' | relative_url }}">Solutioneering</a>
 
-All posts relating to the [solutions]({% link _tabs/solutions.md %}), but not part of the definition.
+All posts relating to the [solutions]({% link _tabs/solutions.md %}), but not part of the solution definition itself.
 
 ## <a href="{{ '/categories/technical' | relative_url }}">Technical</a>
 
