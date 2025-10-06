@@ -1,19 +1,19 @@
 - 
-  es:  yo
-  en:  i
+  spa:  yo
+  eng:  i
   src: "pertaining to self"
 - 
-  es:  mi
-  en:  me
+  spa:  mi
+  eng:  me
   tok: mi
   src: "belonging to self"
 - 
-  es:  tu
-  en:  you
+  spa:  tu
+  eng:  you
   tok: sina
   src: "pertaining to you"
 - 
-  es:  "no"
-  en:  "no"
+  spa:  "no"
+  eng:  "no"
   tok: ala
   src: "no, negative, not"

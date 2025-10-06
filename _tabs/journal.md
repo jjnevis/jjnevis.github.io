@@ -1,6 +1,6 @@
 ---
 icon: fas fa-pencil
-order: 1
+order: 2
 ---
 ## <a href="{{ '/categories/solutioneering' | relative_url }}">Solutioneering</a>
 
