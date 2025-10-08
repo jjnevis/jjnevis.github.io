@@ -1,5 +1,5 @@
 ---
-tags: [solution, numatican, language, global]
+tags: [solution, numatican, language, global, maths]
 simple: true
 pin: true
 ---

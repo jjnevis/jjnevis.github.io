@@ -1,10 +1,11 @@
 - 
-  spa:  yo
-  eng:  i
-  src: "pertaining to self"
+  nnx: yo
+  spa: yo
+  eng: i
+  def: pertaining to self
 - 
-  spa:  mi
-  eng:  me
+  spa: mi
+  eng: me
   tok: mi
   src: "belonging to self"
 - 

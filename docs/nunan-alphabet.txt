@@ -1,0 +1,26 @@
+a - 'a'llow
+b - 'b'oat
+c - 'c'at
+d - 'd'ear
+e - 'e'gg
+f - 'f'ox
+g - 'g'lue
+h - 'h'ello
+i - 'i'nside
+j - ?? (is this needed? 'j'ust)
+k - ?? (or use instead of 'c')
+l - 'l'emon
+m - 'm'elon
+n - 'n'othing
+o - 'o'nly
+p - 'p'erson
+q - ?? (covered by 'c' and 'cw')
+r - 'r'at
+s - 's'un
+t - 't'iger
+u - 'u'no
+v - 'v'ery
+w - 'w'alk
+x - ?? ('cs' works just fine)
+y - 'y'ellow
+z - 'z'ebra
