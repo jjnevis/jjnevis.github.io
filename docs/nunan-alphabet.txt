@@ -7,7 +7,7 @@ f - 'f'ox
 g - 'g'lue
 h - 'h'ello
 i - 'i'nside
-j - ?? (is this needed? 'j'ust)
+j - ?? (is this needed? 'j'ust in case?)
 k - ?? (or use instead of 'c')
 l - 'l'emon
 m - 'm'elon

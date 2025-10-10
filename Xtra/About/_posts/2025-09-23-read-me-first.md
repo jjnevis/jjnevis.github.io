@@ -24,4 +24,6 @@ It's worth remembering that there is zero commercialism involved in this, it is 
 
 Jay
 
-[Read more information about Solutions]({% link Xtra/About/_posts/2025-09-22-more-info-about-solutions.md %})
+[Read more about Solutions]({% link Xtra/About/_posts/2025-09-22-more-info-about-solutions.md %})
+
+To hire me or discuss anything: [contact me](https://signal.me/#eu/1jBFLDtlW_A7BFiOjUFwmZ_xEIvnwQEYni6h6uMxLAWQ4lgb7V9CGIiminJ3ol8H)

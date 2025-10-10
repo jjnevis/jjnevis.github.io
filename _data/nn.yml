@@ -1,20 +1,18 @@
 - 
-  nnx: yo
-  spa: yo
-  eng: i
-  def: pertaining to self
-- 
+  def: me
+  nnx: mi
   spa: mi
   eng: me
   tok: mi
-  src: "belonging to self"
 - 
-  spa:  tu
-  eng:  you
+  def: you
+  nnx: tu
+  spa: tu
+  eng: you
   tok: sina
-  src: "pertaining to you"
 - 
-  spa:  "no"
-  eng:  "no"
+  def: no, negative, not
+  nnx: no
+  spa: no
+  eng: no
   tok: ala
-  src: "no, negative, not"
